@@ -1,3 +1,4 @@
+//Fungsi
 function bioData(myName, myAge) {
     let data = {
         name: myName,
