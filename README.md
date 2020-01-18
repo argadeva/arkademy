@@ -1,5 +1,7 @@
 # Arkademy Bootcamp Batch 4
 
+_Soal No. 1 - 5 bisa langsung di jalankan di https://es6console.com/_
+
 ## Soal No. 1
 Kegunaan JSON pada REST API adalah sebagai format untuk mengirim (sending) dan meminta (requesting) data pada REST API. Selain JSON format data transfer bisa berupa XML (eXtensible Markup Language) dan plain text, tetapi format data JSON lebih populer karena berukuran ringan dan formatnya lebih mudah untuk dibaca dan dimengerti.
 
@@ -24,8 +26,39 @@ Soal No. 6A meliputi pembuatan database dan query.
 ## Soal No. 6B
 Soal No. 6B dikerjakan menggunakan framework bootstrap. Berikut Screenshoot program yang telah dibuat :
 
+_Homepage_
+
+![Screenshot](soal6/6b/1.jpg)
+
+
+_Add Data_
+
+![Screenshot](soal6/6b/2.jpg)
+
+
+_Delete Data_
+
+![Screenshot](soal6/6b/3.jpg)
+
+
+_Edit Data_
+
+![Screenshot](soal6/6b/4.jpg)
+
+
 ## Soal No. 6C
 Merupakan Website sesuai dengan mockup di figma pada point 6.B menggunakan data dinamis yang berasal dari point 6.A serta ditambahkan fitur CRUD ke database pada point 6.A.
 
 _Penggunaan CURD_
-import database 6.A ke tabel baru mysql => kemudian rubah "database" pada file koneksi.php dengan nama tabel yang telah di buat di mysql. 
+
+1. Import database 6.A ke tabel baru mysql.
+2. Rubah "database" pada file koneksi.php dengan nama tabel yang telah di buat di mysql. 
+
+
+
+
+# Credits
+## Thanks to Arkademy.
+
+### Regards, 
+#### Alam Raga Deva
